@@ -28,7 +28,7 @@
   <img src="https://img.shields.io/badge/phpmyadmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white" alt="phpmyadmin" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/C%23-7355DD?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/C++-00599C?logo=C%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vscode"/>
   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="visualstudio"/>
