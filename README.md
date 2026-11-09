@@ -38,7 +38,7 @@
   <img src="https://img.shields.io/badge/llama.cpp-24292E?style=for-the-badge&logo=cpu&logoColor=white" alt="llama.cpp" />
   <img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white" alt="XAMPP" />
 </p>
-<h3>Projects</h3>
+<h3 align="center">Projects</h3>
 <p><a target="_blank" href="https://hnasgames.itch.io/32x32-cyberpunk-pixel-art-pack">32x32 Cyberpunk Pixel Art Pack for 2.5D FPS</a> - itch.io retro asset pack.</p>
 <p><a target="_blank" href="https://hnasgames.itch.io/the-border">The Border</a> - Submission to EFPSE  Just Another Horror Jam (3 first places out of 5 categories).</p>
 <p><a target="_blank" href="https://hnasgames.itch.io/escaping-nightmare">Escaping Nightmare</a> - Survival horror made with Raycasting Game Maker (limited graphics, limited possibilities).</p>
