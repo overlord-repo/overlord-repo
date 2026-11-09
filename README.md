@@ -29,7 +29,7 @@
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/C%23-7355DD?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="python" />
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vscode"/>
   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="visualstudio"/>
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"/>
@@ -39,4 +39,16 @@
   <img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white" alt="XAMPP" />
 </p>
 <h3>Projects</h3>
-<table>TODO...</table>
+<p><a target="_blank" href="https://hnasgames.itch.io/32x32-cyberpunk-pixel-art-pack">32x32 Cyberpunk Pixel Art Pack for 2.5D FPS</a> - itch.io retro asset pack.</p>
+<p><a target="_blank" href="https://hnasgames.itch.io/the-border">The Border</a> - Submission to EFPSE  Just Another Horror Jam (3 first places out of 5 categories).</p>
+<p><a target="_blank" href="https://hnasgames.itch.io/escaping-nightmare">Escaping Nightmare</a> - Survival horror made with Raycasting Game Maker (limited graphics, limited possibilities).</p>
+<p><a target="_blank" href="https://play.google.com/store/apps/details?id=com.riverstudio.fluidbalance">Fluid Balance</a> - A minimalistic water sort game but with one major twist: liquid weight. Available on Google Play. Made with Godot Engine 4!
+<a target="_blank" href="https://github.com/rvrsdev">
+  <img height="25" src="https://img.shields.io/badge/Co--authored%20with-rvrsdev-1c1f24?style=for-the-badge&logo=github&logoColor=white"
+   alt="Co-authored with rvrsdev" />
+</a>
+</p>
+<p><a target="_blank" href="#">Level design project: Shooting range</a> - Screenshots and a presentation are temporarily unavailable. Made with Godot Engine 4 and some plugins to speed up the development (links to the authors of plugins will be added with the presentation).</p>
+<p><a target="_blank" href="https://statuspobytu.pl">statuspobytu.pl</a> - Static landing HTML website with client forms built with Bootstrap 5, deployed and protected with Cloudflare (P.S. check out the live security review on <a target="_blank" href="https://developer.mozilla.org/en-US/observatory/analyze?host=statuspobytu.pl">Mozilla Observatory</a>)</p>
+<hr>
+<h4>Currently working on - LucidusCore.</h4>
