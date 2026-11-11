@@ -48,7 +48,7 @@
    alt="Co-authored with rvrsdev" />
 </a>
 </p>
-<p><a target="_blank" href="#">Level design project: Shooting range</a> - Screenshots and a presentation are temporarily unavailable. Made with Godot Engine 4 and some plugins to speed up the development (links to the authors of plugins will be added with the presentation).</p>
+<p><a target="_blank" href="https://docs.google.com/presentation/d/e/2PACX-1vRT5okflTit8-CTTvnSmI2ezJnbf3ycsE8ecgtR37682YPO2gDmOoxocZQUBinM-jntrFF0XoMOWufS/pub?start=false&loop=false&delayms=60000">Level design project: Shooting range</a> - Made with Godot Engine 4 and <a href="https://godotengine.org/asset-library/asset/3890">THIS</a> FPS Controller plugin made by <a href="https://github.com/Jeh3no/">Jeheno</a>.</p>
 <p><a target="_blank" href="https://statuspobytu.pl">statuspobytu.pl</a> - Static landing HTML website with client forms built with Bootstrap 5, deployed and protected with Cloudflare (P.S. check out the live security review on <a target="_blank" href="https://developer.mozilla.org/en-US/observatory/analyze?host=statuspobytu.pl">Mozilla Observatory</a>)</p>
 <hr>
 <h4>Currently working on - LucidusCore.</h4>
